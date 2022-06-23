@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=chalkfung&color=blueviolet&style=plastic)
 
 [![ChalkFung's GitHub stats](https://github-readme-stats.vercel.app/api?username=chalkfung)](https://github.com/chalkfung/github-readme-stats)
 
